@@ -7,7 +7,7 @@
 
 }
 .body{
-    background-image: url("snakebg.jpg");
+    background-image: url("bg.jpg");
     min-height: 100vh;
     background-size: 107vw 107vh;
     background-repeat: no-repeat;
